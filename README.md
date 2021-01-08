@@ -8,7 +8,7 @@ Birthday | Favourite color | Favorite food | Pinneaple on pizza
 07/03    | Red             | Pasta         | &#9744; Yes &#9745; No
 ### Hobbies
 * Test
-** Test
+    Test
 #### You can always count on me when...
 
 ##### A funny story
