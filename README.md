@@ -1,10 +1,8 @@
 # Laetitia Gullo
 
 *Celebrate every day !*
-
 <br/>
 ![Photo](https://github.com/LaetitiaGullo/markdown-challenge/blob/master/Photo.jpeg?raw=true)
-
 ## "Fearless in the pursuit of what sets my soul on fire"
 
 Birthday | Favourite color | Favorite food | Pinneaple on pizza
@@ -25,4 +23,4 @@ Vous connaissez la chanson "*Une souris verte*" ...? Jusqu'à l'année dernière
 En fait on s'en fout car les souris vertes, ça n'existe pas.
 
 </br>
-<< previous link || Me || next link >>
+<< previous link || Laetitia Gullo || next link >>
