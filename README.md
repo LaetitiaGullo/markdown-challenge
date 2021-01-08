@@ -11,7 +11,11 @@ Birthday | Favourite color | Favorite food | Pinneaple on pizza
 
 ### Hobbies
 * Reading
+    * Historical
+    * Thriller
+    * Horror
 * Cooking
+* Travelling
 
 #### You can always count on me when...
 ...you need a shoulder to cry **-but don't mess my clothes, thanks-**
@@ -23,4 +27,4 @@ Vous connaissez la chanson "*Une souris verte*" ...? Jusqu'à l'année dernière
 En fait on s'en fout car les souris vertes, ça n'existe pas.
 
 </br>
-<< previous link || Laetitia Gullo || next link >>
+<< [Josué Ulliana](https://github.com/Josue-U) || [Laetitia Gullo](https://github.com/LaetitiaGullo) || [Luciana Brancato](https://github.com/Luciana001)  >>
